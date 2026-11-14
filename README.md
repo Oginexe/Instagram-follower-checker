@@ -24,9 +24,9 @@ nessuna password richiesta, nessun dato inviato a terzi.
 ## Utilizzo
 
 ```bash
-git clone https://github.com/TUO-USERNAME/instagram-follow-checker.git
-cd instagram-follow-checker
-python follow_checker.py
+git clone https://github.com/Oginexe/Instagram-follower-checker.git
+cd Instagram-follower-checker
+python flwrs.py
 ```
 
 Per usare percorsi diversi:
